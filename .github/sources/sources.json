@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NASA公开流",
+    "url": "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt",
+    "type": "txt",
+    "format": "json"
+  },
+  {
+    "name": "教育频道合集",
+    "url": "https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/IPTV.txt",
+    "type": "txt",
+    "encoding": "utf-8"
+  }
+]
